@@ -39,3 +39,5 @@ Thumbs.db
 ####Database#########
 include/db_connect.php
 includes/db_connect.php
+nbproject/
+pictures/
